@@ -1,0 +1,9 @@
+D:\Project\C#\addPlayer\addPlayer\addPlayer\bin\Debug\addPlayer.exe.config
+D:\Project\C#\addPlayer\addPlayer\addPlayer\bin\Debug\addPlayer.exe
+D:\Project\C#\addPlayer\addPlayer\addPlayer\bin\Debug\addPlayer.pdb
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.csprojResolveAssemblyReference.cache
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.Form1.resources
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.Properties.Resources.resources
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.csproj.GenerateResource.Cache
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.exe
+D:\Project\C#\addPlayer\addPlayer\addPlayer\obj\Debug\addPlayer.pdb
